@@ -1,0 +1,27 @@
+body{
+	background-image:url('../images1/blur-communication-computer-2148217.jpg');
+	background-size:cover;
+	height:100vh;
+}
+.bg-black{
+	background-color:black;
+}
+
+img{
+	width:400px;
+	height:300px;
+
+	
+}
+.font-div{
+	width:30%;
+	height:125px;
+}
+
+
+///responsive////
+@media only screen and (min-width:1198px){
+	.font-div{
+		padding:42.5px 0px!important;
+	}
+}
